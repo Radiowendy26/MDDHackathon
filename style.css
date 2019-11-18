@@ -1,0 +1,14 @@
+ @font-face {
+    font-family: "MontserratRegular";
+    src: url("../Font/Montserrat-Regular.ttf") format("truetype");
+}
+
+body{
+	background-image: url("https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif");
+	background-repeat: repeat;
+}
+h1{
+	font-size: 60px;
+	color: white;
+	font-family: "MontserratRegular", sans-serif;
+}
